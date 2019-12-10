@@ -1,27 +1,29 @@
 {
   "name": "react-spongebob-text-component",
   "version": "1.0.0",
-  "description" : "React component returning a sponge bob text style",
+  "description": "React component returning a sponge bob text style",
   "homepage": "https://github.com/RedHotMan/react-spongebob-text-component",
   "private": false,
   "license": "MIT",
   "author": "Ilyaçe Regaibi",
   "main": "dist/index.js",
   "module": "dist/index.js",
-  "files": [ "dist", "README.md" ],
+  "files": [
+    "dist",
+    "README.md"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/RedHotMan/react-spongebob-text-component"
   },
-  "keywords": ["react"],
+  "keywords": [
+    "react"
+  ],
   "dependencies": {
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.3.2",
-    "@testing-library/user-event": "^7.1.2",
-    "babel-cli": "^6.26.0",
     "prop-types": "^15.7.2"
   },
   "devDependencies": {
+    "@babel/cli": "^7.7.5",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.3.0"
