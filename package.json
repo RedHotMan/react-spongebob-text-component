@@ -1,6 +1,6 @@
 {
   "name": "react-spongebob-text-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React component returning a sponge bob text style",
   "homepage": "https://github.com/RedHotMan/react-spongebob-text-component",
   "private": false,
